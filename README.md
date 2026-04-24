@@ -15,6 +15,5 @@ Projekat demonstrira rad sa grafičkim korisničkim interfejsom (Swing) i mrežn
 * `Jezik:` Java
 * `GUI Biblioteka:` Java Swing (AWT)
 * `Mreža:` Java Sockets (TCP/IP)
-* 
 ---
 *Projekat je fokusiran na razumevanje mrežnih protokola i sinhronizaciju podataka između distribuiranih komponenti.*
